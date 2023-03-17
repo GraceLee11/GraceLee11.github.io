@@ -1,0 +1,21 @@
+---
+title: "About"
+about:
+  template: jolla
+  image: Rabbit.jfif
+  image-width: 5cm
+  image-shape: round
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com/gracelee11
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/%E8%AF%9A%E9%A2%96-%E6%9D%8E-b8700b226/
+---
+
+I am a student
+
+#Education:
+
+UCL
